@@ -16,7 +16,7 @@ Full documentation for the package is available on [godoc](http://godoc.org/gith
 
 ## Installation
 
-    go get github.com/goftp/server
+    go get github.com/cuoci/server
 
 ## Usage
 
