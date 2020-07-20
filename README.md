@@ -30,7 +30,7 @@ an example of how to build a backend.
 There is a [sample ftp server](/exampleftpd) as a demo. You can build it with this
 command:
 
-    go install github.com/goftp/server/exampleftpd
+    go install github.com/cuoci/server/exampleftpd
 
 Then run it if you have add $GOPATH to your $PATH:
 
